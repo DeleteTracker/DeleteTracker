@@ -1,0 +1,124 @@
+in-app path,Delete app acccount,Manage App Data,login method,in-app,web link resource,Remark 1,,,
+ABPV America's Best pics&vids,https://americasbestpics.com/account/delete,https://americasbestpics.com/account/delete,"email,google, apple, facebook",FALSE,TRUE,"same link (data&account together)
+do not need to sign in, just input email address
+then click email to confirm
+",,,
+Thread,https://help.instagram.com/313703828012423/?helpref=uf_share,https://help.instagram.com/179980294969821/?helpref=hc_fnav,login with ins,TRUE,TRUE,"test after Nov,27
+
+There is no useful info about manage data website",,,
+Instagram,https://www.instagram.com/accounts/login/?next=%2Faccounts%2Fremove%2Frequest%2Fpermanent%2F,https://help.instagram.com/289302621183285,email.account,FALSE,TRUE,"need to login, but after first login, it directly jump to your account
+if you already have login info in the website and then click delete account link again, you can enter delete account page
+then you can enter reason and passwd to delete
+
+test after Nov,27
+
+For the manage data, the link only shows how to delete post",,,
+Netflix,https://help.netflix.com/en/node/126558,https://help.netflix.com/en/node/100625,rech issue of virtual device,TRUE,TRUE,"provide cancel/delete
+provide both",,,
+ChatGPT,https://help.openai.com/en/articles/6378407-how-to-delete-your-account,https://help.openai.com/en/articles/6378407-how-to-delete-your-account#h_c4bbbd07c5,google,FALSE,TRUE,"same link
+can find in-app path but doc didn't mentioned",,,
+Snapchat,https://help.snapchat.com/hc/en-us/articles/7012328360596-How-do-I-deactivate-or-delete-my-Snapchat-account,https://help.snapchat.com/hc/en-us/articles/12324650978964-How-do-I-clear-my-data-on-Snapchat,"google /signup
+login with google has issues",TRUE,TRUE,"for android, web link
+for ios: in-app path -> web link
+can find in-app path but doc didn't mentioned
+unput account info/passwd
+
+test after 30 days",,,
+Facebook,https://m.facebook.com/login.php?next=https%3A%2F%2Faccountscenter.facebook.com%2Fpersonal_info%2Faccount_ownership_and_control%2Fdeletion_and_deactivation%2F&refsrc=deprecated,https://m.facebook.com/help/505287739528816?wtsid=rdr_0XoHyZYpRLkKLTyji,,FALSE,TRUE,web,,,
+Health Sense: Blood Sugar Hub,https://sites.google.com/view/healthapplineslimited,https://sites.google.com/view/healthapplineslimited,,FALSE,FALSE,"same link, just privacy policy
+two sections about delete data: need to send email",,,
+YouTube TV: Live TV & more,https://support.google.com/accounts/answer/32046,https://support.google.com/accounts/answer/32046,google,FALSE,TRUE,"same link
+this doc if for all google apps",,,
+Spotify: Music and Podcasts,https://support.spotify.com/us/article/data-rights-and-privacy-settings/,https://support.spotify.com/us/article/how-can-i-close-my-spotify-account/,,FALSE,FALSE,"very diffivult to find delete in doc
+need to search: https://support.spotify.com/us/article/how-can-i-close-my-spotify-account/
+chatbot
+",,,deleted
+Telegram,https://my.telegram.org/auth?to=delete,https://telegram.org/faq#q-can-i-delete-my-data-without-deleting-my-account,phone number,FALSE,TRUE,cannot signup ,"input phone number to delete directly
+(manage data - in path)",,
+Tubi: Free Movies & Live TV,https://tubitv.com/help-center/App-Features-and-Settings/articles/115000190954,https://tubitv.com/help-center/App-Features-and-Settings/articles/115000190954,,TRUE,FALSE,"same link
+country difference: UK/EU is deletion form ",,,
+X,https://help.x.com/en/managing-your-account/how-to-deactivate-x-account,https://twitter.ethicspointvp.com/custom/twitter/forms/data/form_data.asp,google,FALSE,TRUE,"deactive-> delete
+",,,
+CVS/pharmacy,https://www.cvs.com/retail/help/help_contact_us,https://www.cvs.com/retail/help/help_contact_us,,FALSE,FALSE,"same link, no delete link info",,,
+MacDonald's,https://www.mcdonalds.com/us/en-us/faq/how-do-i-delete-my-account.html,https://www.mcdonalds.com/us/en-us/faq/how-do-i-delete-my-account.html,"facebook,email,google",TRUE,FALSE,"same link
+delete directly, no need to login",,,
+ShortMax - Watch Dramas & Show,https://www.shorttv.live/privacy-policy.html,https://www.shorttv.live/privacy-policy.html,,FALSE,FALSE,"same link, just privacy policy
+If you wish to delete your account as long as email, phone number or any other information associated with your account permanently, 
+please contact us at shorttv.service@shorttv.live.",                                                                                                                                         ,,
+DoorDash - Food Delivery,https://about.doordash.com/en-us/privacy,,"email,phone,facebook, apple, google
+need to enter phone number",TRUE,TRUE,priavcy policy - provide in-app path and website link,,,
+       ,https://app.life360.com/login?source=playstore,,phone number,TRUE,FALSE,,,,
+Cash App,https://cash.app/login?redirect=support,,"phone, email",FALSE,FALSE,"(does not surpport virtual device)
+input email ot phone number to delete
+the link cannot login, cannot receive emial and phone number code
+can find in-app path but doc didn't mentioned",,,
+WhatsApp Messenger,https://faq.whatsapp.com/2138577903196467/?cms_platform=android,,"mobile number (after sign in, can add email)",TRUE,FALSE,,,,
+Chime - Mobile Banking,https://help.chime.com/hc/en-us/articles/4420558224663-How-do-I-close-my-Chime-account,,needs phone number,TRUE,FALSE,"needs to login, do not have extra phone number","ou can close your Chime account in the Chime mobile app.
+
+Go to Settings.
+Tap Personal info.
+Tap Close Account and follow the steps.
+Alternatively, you can call us at (844) 244-6363.
+
+We’ll close your account within five business days of receiving your request. Once your account is closed, you can no longer access it. If you need tax documents or other types of statements for the account before closing it, download them in the Documents section of your app settings.",,
+Pinterest,https://help.pinterest.com/en/article/deactivate-or-close-your-account,,"google, facebook, email",TRUE,TRUE,"We'll delete your account and delete your Pinterest account data after 7 days. 
+If you change your mind before 7 days are up, log in with your email and password and we'll send you a link to reactivate your account.",,,
+Uber - Request a ride,https://help.uber.com/ubereats/restaurants/article/i-need-help-deleting-my-uber-eats-account?nodeId=4dd32b64-1d31-4c25-a1ed-f7817c0d6e17,,"google apple emial phone
+needs phone number",FALSE,TRUE,"needs to login, do not have extra phone number
+in-app path can be found",,,
+Walmart: Shopping & Savings,https://identity.walmart.com/account/login?client_id=5f3fb121-076a-45f6-9587-249f0bc160ff&code_challenge=0DP5_c2-aYbP1hZie5yfP4ahwxd2DllAuL9NiVY0gew&redirect_uri=https%3A%2F%2Fwww.walmart.com%2Faccount%2FverifyToken&scope=openid+email+offline_access&tenant_id=elh9ie&state=%2Faccount%2Fdelete-account-mobile-app,,,TRUE,FALSE,"This link can jump to app directly.
+In-app: there is request to delete account
+website: tech issue",,,
+DramaBox - Stream Drama Shorts,https://info.dramaboxdb.com/other/logout/dramabox.html,,"facebook, google",FALSE,TRUE,,,,
+Instabridge: WiFi Map,https://instabridge.com/account-deletion/,,,FALSE,FALSE,send email,,,
+ESPN,https://login.myid.disney.com/login?resume=/idp/iesSL/resumeSAML20/idp/startSSO.ping&spentity=https://disneysupport.zendesk.com/agent,,,FALSE,FALSE,"wrong website
+
+singup ESPN: clemsonscrtlb@gmail.com 
+The link is seems whole Disney, cannot login with ESPN account",,,
+Messnger,https://m.facebook.com/login.php?next=https%3A%2F%2Faccountscenter.facebook.com%2Fpersonal_info%2Faccount_ownership_and_control%2Fdeletion_and_deactivation%2F&refsrc=deprecated,,mobile number or email,FALSE,TRUE,,,,
+SHEIN - Shopping Online,https://m.shein.com/us/user/login?redirection=%2Fus%2Fuser%2Fdeactivate%2Findex%3Ftype%3Dgoogleplay%26ref%3Dwww%26rep%3Ddir%26ret%3Dmus,,"google, email, facebook, phone number",FALSE,FALSE,"input account to delete directly
+(cannot delete)",,,
+Pluto TV: Watch Free Movies/TV,https://pluto.tv/us/account/sign-in,,,FALSE,TRUE,"Link only mention website, but it can delete account from in-app path.
+web: input pswd",,,
+"Max: Stream HBO, TV, & Movies",https://privacyportal.onetrust.com/webform/1b21e05d-c206-4e0b-970e-2d73a23e42e8/443f4b17-34f2-4c46-8da4-f3d7cbf3b5cb,,,FALSE,TRUE,,,,
+Indeed Job Search,https://requests.hrtechprivacy.com/create?entity=INDEED,,,FALSE,TRUE,,,"Data request confirmed
+Your request has been confirmed. You should receive an email or text message when the exercise begins. If you have any questions, please reach out to us at contactus@hrtechprivacy.com.",
+"Discord - Talk, Play, Hang Out",https://support.discord.com/hc/zh-tw/articles/212500837-%E5%A6%82%E4%BD%95%E6%B0%B8%E4%B9%85%E5%88%AA%E9%99%A4%E6%88%91%E7%9A%84%E5%B8%B3%E6%88%B6,,phone emial,TRUE,TRUE,"delete directly, no need to confirm
+Your account has been deactivated and will be permanently deleted 
+after 14 days.",,,
+Amazon Shopping,https://www.amazon.com/gp/help/customer/display.html?nodeId=GDK92DNLSGWTV6MP,,,FALSE,TRUE,"it has in-app path but document didn't mention
+login and delete","Your Request To Close Your Amazon Account Has Been Confirmed.
+Your request to close your Amazon account and delete your data has been confirmed. We will separately communicate with you if there are any actions required of you before we can close your account. If no actions are required, your request will be processed automatically.",,
+CapCut - Video Editor,https://www.capcut.com/account-center/login,,"tiktok, google, phone, email, facebook",FALSE,FALSE,"didn't provide useful info. Need to login and find by myself.
+can be found capcut account -> security
+canbe restore within 30 days
+test after 11.28",,,
+Gauth: AI Study Companion,https://www.gauthmath.com/extension-login?from=https%3A%2F%2Fwww.gauthmath.com%2Faccount-delete,,google/facebook,FALSE,TRUE,"it provide weblink and you can login to delete, 
+but it shows you cannot ""logout"" via h5 page
+but I can delete from PC
+
+test after 30 days",,,
+"Scoopz: Real Life, Real Video",https://www.localaiapp.com/#contact,,,FALSE,FALSE,link didn't provide info,,,
+Temu,https://www.temu.com/login.html?from=https%3A%2F%2Fwww.temu.com%2Fbgp_close_account.html&login_scene=5&refer_page_name=bgp_close_account&refer_page_id=10081_1728336082965_8bcnxyi93t&refer_page_sn=10081&_x_sessn_id=cp5jajxeaj,,"phone/email/username,facebook, google, twitter",FALSE,TRUE,"1. sign in 2. delete directly
+delete within 7days
+login 10.28, remember test 11.3
+clemsonscrtlb@gmail.com
+
+can find in-app path but doc didn't mentioned",,"can still login
+When your account has been deleted, we'll send you an email to let you know. - no email",
+TextNow: Call + Text Unlimited,https://www.textnow.com/login?redirectTo=%2Faccount%2Fnew%23requestDataDeletionDisclosure,,"facebook,email,google",FALSE,TRUE,"login -> choose request -> delete
+test after 7 days
+
+already deleted",,,
+Tiktok,https://www.tiktok.com/setting,,"phone/email/username,facebook, google, twitter",FALSE,FALSE,cannot open and cannot login,,,
+Google Massages,,,,FALSE,FALSE,diff from web,,,
+AR tracer: Trace Drawing,,,,FALSE,FALSE,,,,
+PDF reader - PDF Viewer,,,,FALSE,FALSE,diff from web,,,
+QR & Barcode Scanner (Gamma Play),,,,FALSE,FALSE,,,,
+QR & Barcode Scanner Plus(health applines),,,,FALSE,FALSE,,,,
+Messages,,,,FALSE,FALSE,,,,
+Beat Maker Pro - DJ Drum Pad,,,,FALSE,FALSE,,,,
+Remote Control for TV - All TV,,,,FALSE,FALSE,,,,
+"All Video Downloader & Player
+",,,,FALSE,FALSE,diff from web,,,
+PDF reader - PDF Viewer,,,,FALSE,FALSE,diff from web,,,
