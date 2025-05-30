@@ -1,5 +1,11 @@
-## Hi there 👋
+# No Way to Sign Out? Unpacking Non-Compliance with Google Play’s App Account Deletion Requirements
 
+Despite the significant convenience mobile apps bring to our daily lives, the collection and use of personal information by these apps remain a major concern, particularly regarding how such data is handled after users sign out. To align with regulations like the General Data Protection Regulation (GDPR) that have included specific provisions granting individuals the right to request data deletion, mobile app stores, such as Google Play, have introduced new account deletion requirements that require apps to provide proper account deletion methods. In this work, we conducted the first study on investigating non-compliance issues with Google Play’s app account deletion requirements. Starting with a pilot study of the top 50 apps on Google Play, we identified potential issues related to account deletion and defined three main categories of issues: link issues, content issues, and functionality issues. Based on these findings, we developed a tool named DELETETRACKER to automatically collect account deletion-related information from Google Play and semi-automatically identify non-compliance issues regarding account deletion. Using DELETETRACKER, we analyzed 863 Google Play apps’ account deletion information. Among the 494 apps with accessible account deletion links, DELETETRACKER discovered that only 8.5% of apps provide both in-app path and web-based account deletion methods, which fully comply with Google Play’s account deletion requirements. 64.6% of apps offer only one account deletion method. We also found 12 apps that failed to delete user accounts. We have reported our findings to Google through the vulnerability reporting process. Following our disclosure, Google acknowledged the reported issue and assigned it a Medium (S2) severity level.
+
+1. Account Deletion Link Crawler
+2. Account Deletion Link Analyzer
+3. Account Deletion Methid Classifier
+4. Account Deletion Verifier
 <!--
 **DeleteTracker/DeleteTracker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
